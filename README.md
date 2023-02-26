@@ -4,6 +4,6 @@
 
 ![gif](https://user-images.githubusercontent.com/67185278/221402891-e404acb7-8c20-43ad-a088-a6bafd5b4408.gif)
   
-  i like to draw and ~~program~~
+  i like to draw and ~~code~~
   
 
