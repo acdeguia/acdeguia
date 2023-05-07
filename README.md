@@ -3,10 +3,7 @@
  Welcome to my GitHub repository, where you'll find a collection of my projects, experiments, and learning materials as I progress on my coding journey.
 
 ### About Me
-* 🎓 Computer Science undergraduate.
-* 🌟 Passionate about building intuitive and user-friendly web applications.
-* 📚 Constantly learning and exploring new technologies.
-* 🌐 Currently honing my skills in HTML, CSS, JavaScript, and various web frameworks.
+an aspiring developer and a Computer Science undergrad. My main focus is web development, and I am continuously sharpening my skills and staying abreast of the latest industry trends and best practices.
 
 ### Skills
 * Front-end Development: HTML5, CSS3, JavaScript, React.js, Bootstrap
