@@ -5,7 +5,7 @@
 ### Skills
 * Front-end Development: HTML5, CSS3, JavaScript, React.js, Bootstrap
 * Version Control: Git, GitHub
-* UI/UX Design: Wireframing, Prototyping, Adobe XD, Figma
+* UI/UX Design: Wireframing, Prototyping, Adobe Xd, Figma
 * Testing: Jest
 
 ### Socials
